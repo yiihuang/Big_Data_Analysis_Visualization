@@ -1,5 +1,9 @@
 # 📊 Project Title: **Global Terrorism Analysis: Big Data Insights using PySpark and Tableau**
 
+![Demo 1](img/demo1.gif)
+![Demo 2](img/demo2.gif)
+![Demo 3](img/demo3.gif)
+
 ## Overview
 
 This project investigates global terrorism trends using comprehensive big data analytics and interactive visualization tools. Utilizing the Global Terrorism Database (GTD)—the most extensive open-source collection of global terrorist incident data—this analysis identifies patterns, geographic hotspots, and strategic insights, aiding policymakers, analysts, and researchers in counterterrorism efforts.
@@ -32,7 +36,7 @@ Big_Data_Analysis_Visualization-Global_Terrorism_Dataset-7153CEM/
 **Context:**
 
 * Data on over 180,000 terrorist attacks globally.
-* Maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START).
+* Maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) .
 
 **Content:**
 
@@ -40,7 +44,7 @@ Big_Data_Analysis_Visualization-Global_Terrorism_Dataset-7153CEM/
 * **Time Period:** 1970–2017 (excluding 1993)
 * **Unit of Analysis:** Individual terrorist attacks
 * **Variables:** Over 100 detailed variables, including location, attack type, perpetrators, targets, and outcomes
-* **Data Sources:** Primarily unclassified media reports
+* **Data Sources:** Primarily unclassified media reports, maintained by START as [GTD](https://www.start.umd.edu/data-tools/GTD). The open-sourced version of the GTD can also be downloaded from [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd). 
 
 ---
 
