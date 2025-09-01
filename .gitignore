@@ -1,0 +1,43 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Large visualization files (optional - uncomment if you want to exclude them)
+# *.html
+# *.twbx
+
+# Temporary files
+*.tmp
+*.temp
